@@ -1,5 +1,5 @@
 
-## Firewall Actions:
+## Firewall Actions
 
 ### Allow 
 Allows the traffic to pass through the firewall.
