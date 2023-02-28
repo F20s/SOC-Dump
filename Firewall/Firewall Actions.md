@@ -24,4 +24,4 @@ This action is used when the firewall allows traffic to pass through but the ses
 Logs the traffic but doesn't block or allow it.
 
 
-Understanding firewall actions is a critical skill for SOC analysts, as it can help you create effective firewall rules, analyze firewall logs, respond to security incidents, and develop security policies.
+Understanding firewall actions is a critical skill for SOC analysts, as it can help you create effective firewall rules, analyze firewall logs, and respond to security incidents.
